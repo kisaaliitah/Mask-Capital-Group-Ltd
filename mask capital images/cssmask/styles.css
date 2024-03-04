@@ -1,12 +1,10 @@
-div {
-    color:white;
-    background-color: black;
-    font-size: 22px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: justify;
-
-}
-
 p {
-    color: red;
+    font-style: normal;
+    color: black;
+    text-align: justify;
+    font-size: medium;
+}
+h1 {
+    color: gold;
+    font-size: 48;
 }
