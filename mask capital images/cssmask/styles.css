@@ -7,4 +7,15 @@ p {
 h1 {
     color: gold;
     font-size: 48;
+    text-align: justify;
+}
+h2 {
+    color: gold;
+    font-size: 45;
+    text-align: justify;
+}
+ul {
+    color: black;
+    font-size: medium;
+    text-align: justify;
 }
