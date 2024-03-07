@@ -6,21 +6,19 @@ p {
 }
 h1 {
     color: gold;
-    font-size: 48;
+    font-size: larger;
     text-align: justify;
+    font-style: normal;
 }
 h2 {
     color: gold;
-    font-size: 45;
+    font-size: large;
     text-align: justify;
+    font-style: normal;
 }
-ul {
+ul, ol {
     color: black;
     font-size: medium;
     text-align: justify;
-}
-ol {
-    color: black;
-    font-size: medium;
-    text-align: justify;
+    font-style: normal;
 }
