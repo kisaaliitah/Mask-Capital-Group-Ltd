@@ -9,6 +9,9 @@ h1 {
     font-size: larger;
     text-align: justify;
     font-style: normal;
+    border: 2px dashed gold;
+    width: auto;
+    padding: auto;
 }
 h2 {
     color: gold;
