@@ -22,18 +22,21 @@ h2 {
     font-size: large;
     text-align: justify;
     font-style: normal;
+    border: 2px
 }
 ul, ol {
     color: black;
     font-size: medium;
     text-align: justify;
     font-style: normal;
+    border: 2px;
 }
 p {
     font-style: normal;
     color: rgb(51, 51, 51);
     text-align: justify;
     font-size: medium;
+    border: 2px;
 }
 .centered {
     text-align: center;
